@@ -1,0 +1,54 @@
+body {
+	background-color: #999999;
+	color: #fff;
+}
+
+#the-header h1 {
+	float: left;
+}
+
+#nav {
+	float: right;
+	margin-right: 2%;
+}
+
+li {
+	display: inline;
+	padding: 30px;
+}
+
+li:hover {
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+section {
+	clear: both;
+}
+
+.sectionOne  {
+	text-align: center;
+     width: 100%;
+     height: auto;
+     background-color: #efefef;
+     color: #333;
+}
+
+.sectionTwo  {
+	text-align: center;
+     width: 100%;
+     height: auto;
+     background-color: #666666;
+     color: #efefef;
+}
+
+h3 {
+	float: left;
+	margin-left: 75%;
+	font-size: 32px;
+}
+
+.phail {
+	float:  right;
+	margin-right: 2%;
+}
